@@ -1,0 +1,17 @@
+{
+    "name": "leticia/product-service",
+    "description": "A represetation of an product CRUD",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leticia",
+            "email": "leticia.marinho532@gmail.com"
+        }
+    ],
+    "require": {}
+}
