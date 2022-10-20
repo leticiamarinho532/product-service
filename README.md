@@ -1,7 +1,7 @@
 # product-service
 ## A Represetation of an product CRUD
 
-# **WARNING:** Not complete + need refactor!
+# **WARNING:** Not complete!
 
 ### Sumary
 
