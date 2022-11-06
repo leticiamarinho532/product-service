@@ -9,7 +9,7 @@
 2. How to Test on Your Machine
 
 ### Documentation
-To see the full documentation, please access the following link [Doc](https://www.google.com/).
+Soon.
 
 ### How to Test on Your Machine
 
